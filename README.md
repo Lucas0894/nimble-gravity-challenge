@@ -31,7 +31,7 @@ src/
  ├── components/
  │     ├── JobList.jsx
  │     ├── JobItem.jsx
- │     └── (otros componentes si los agregaste)
+ │     
  ├── services/
  │     └── api.js
  ├── App.jsx
