@@ -1,16 +1,51 @@
-# React + Vite
+# Nimble Gravity – Challenge Fullstack Junior
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Este proyecto fue desarrollado como parte de un challenge técnico para el puesto de Fullstack Junior en Nimble Gravity.
 
-Currently, two official plugins are available:
+## 🚀 Tecnologías utilizadas
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- React
+- Vite
+- JavaScript
+- CSS
+- Fetch API
 
-## React Compiler
+## 📌 Descripción
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+La aplicación permite enviar un formulario y realizar una petición a un endpoint de API.
 
-## Expanding the ESLint configuration
+Se trabajó sobre:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Estructura modular de componentes
+- Manejo de estado con React
+- Inputs controlados
+- Integración con API
+- Manejo de estados de carga
+- Renderizado condicional
+- Feedback visual ante éxito o error
+
+## 📂 Estructura del proyecto
+
+src/
+ ├── components/
+ ├── App.jsx
+ ├── main.jsx
+
+## ▶️ Instalación y ejecución
+
+Clonar el repositorio:
+
+git clone https://github.com/Lucas0894/nimble-gravity-challenge.git
+
+Instalar dependencias:
+
+npm install
+
+Ejecutar el proyecto:
+
+npm run dev
+
+## 💡 Notas
+
+- Las variables de entorno se gestionan mediante un archivo `.env` (no incluido en el repositorio).
+- El proyecto sigue una organización basada en componentes reutilizables.
