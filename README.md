@@ -25,7 +25,7 @@ Se trabajó sobre:
 - Feedback visual ante éxito o error
 
 ## 📂 Estructura del proyecto
-
+```plaintext
 src/
  ├── components/
  ├── App.jsx
