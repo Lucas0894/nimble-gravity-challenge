@@ -7,7 +7,7 @@ Este proyecto fue desarrollado como parte de un challenge técnico para el puest
 - React
 - Vite
 - JavaScript
-- CSS
+- Tailwind CSS
 - Fetch API
 
 ## 📌 Descripción
